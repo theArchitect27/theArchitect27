@@ -4,7 +4,7 @@
 💻 Interested in Software Engineering, Consulting, Data & AI  
 🚀 Passionate about solving real-world problems with technology  
 
-## About Me
+
 ## About Me
 
 I am a BSc Information Technology student with foundational knowledge in software development and problem solving. Through my academic work, I have gained exposure to multiple programming languages and development tools, and I am continuously improving my skills through practical projects.
