@@ -11,17 +11,14 @@ I am a BSc Information Technology student with foundational knowledge in softwar
 I am particularly interested in consulting, data-driven problem solving, and using technology to create meaningful solutions. I am eager to learn, adapt, and grow within a professional environment.
 
 ## Skills
-
-**Programming (Foundational):**
-- C++, C#, Java, Python
-
-**Web & Systems:**
-- HTML, CSS, ASP.NET (basic)
-
-**Tools & Technologies:**
-- GitHub, Visual Studio, VS Code
+- Programming (Foundational): C++, C#, Java, Python  
+- Systems & Web: HTML, CSS, ASP.NET (basic)  
+- Tools: GitHub, Visual Studio, VS Code  
+  
 
 **Core Strengths:**
 - Problem Solving  
 - Logical Thinking  
-- Willingness to Learn  
+- Willingness to Learn
+- Critical Thinking
+- Team work
