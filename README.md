@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Tlhologelo 👋
 
-<!--
-**theArchitect27/theArchitect27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Information Technology Student  
+💻 Interested in Software Engineering, Consulting, Data & AI  
+🚀 Passionate about solving real-world problems with technology  
 
-Here are some ideas to get you started:
+## About Me
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a BSc Information Technology student with foundational knowledge in software development and problem solving. Through my academic work, I have gained exposure to multiple programming languages and development tools, and I am continuously improving my skills through practical projects.
+
+I am particularly interested in consulting, data-driven problem solving, and using technology to create meaningful solutions. I am eager to learn, adapt, and grow within a professional environment.
+
+## Skills
+
+**Programming (Foundational):**
+- C++, C#, Java, Python
+
+**Web & Systems:**
+- HTML, CSS, ASP.NET (basic)
+
+**Tools & Technologies:**
+- GitHub, Visual Studio, VS Code
+
+**Core Strengths:**
+- Problem Solving  
+- Logical Thinking  
+- Willingness to Learn  
