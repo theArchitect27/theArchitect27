@@ -1,9 +1,8 @@
 ## Hi, I'm Tlhologelo 👋
 
 🎓 BSc Information Technology Student  
-💻 Aspiring Software Engineer   
-📊 Interested in Data, AI & Problem Solving  
-🚀 Passionate about building solutions that solve real-world problems  
+💻 Interested in Software Engineering, Data & Problem Solving  
+🚀 Passionate about using technology to solve real-world challenges  
 
 ## About Me
 
